@@ -1,4 +1,4 @@
-# Hiiiii, I'm Ivy Amelia 💕💕
+# Hiiiii, I'm Ivy 💕💕
 📚 Second year in Computer Science at Pontifical Catholic University of Chile<br>✨ 20 y/o, although I have been coding since I was 10!<br>🎉 I love gamedev and reverse engineering<br>🌱 I always like trying out new coding stuff (as a hobby I guess?)<br>🏳️‍⚧️ Non-Binary
 
 # 💻 Languages I like:
