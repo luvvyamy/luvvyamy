@@ -1,4 +1,4 @@
-# Hiiiii, I'm Ivy 💕💕
+# Hiiiii, I'm Ivy 🔥🔥
 📚 I study Computer Science at Pontifical Catholic University of Chile<br><br>✨ 21 y/o, although I have been coding since I was 10!<br><br>🎉 I love gamedev and reverse engineering, I am currently focusing on REing Tomodachi Life for the 3DS<br><br>🌱 I always like trying out new coding stuff (as a hobby I guess?)<br><br>🛠️ Working for the tech team of a certain mouse restaurant arcade, helping its digital transformation through configuring existing tools and coding brand new ones!<br><br>🏳️‍⚧️ Non-Binary
 
 # 💻 Languages I like:
