@@ -1,5 +1,5 @@
 # Hiiiii, I'm Ivy 🔥🔥
-📚 I study Computer Science at Pontifical Catholic University of Chile<br><br>✨ 21 y/o, although I have been coding since I was 10!<br><br>🎉 I love gamedev and reverse engineering, I am currently focusing on REing Tomodachi Life for the 3DS<br><br>🌱 I always like trying out new coding stuff (as a hobby I guess?)<br><br>🛠️ Working for the tech team of a certain mouse restaurant arcade, helping its digital transformation through solo-developing brand new tools!<br><br>🏳️‍⚧️ Non-Binary
+📚 I study Computer Science at Pontifical Catholic University of Chile<br><br>✨ 21 y/o, although I have been coding since I was 10!<br><br>🎉 I love gamedev and reverse engineering, I am currently focusing on REing Tomodachi Life for the 3DS<br><br>🌱 I always like trying out new coding stuff (as a hobby I guess?)<br><br>🏳️‍⚧️ Non-Binary
 
 # 💻 Languages I like:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
